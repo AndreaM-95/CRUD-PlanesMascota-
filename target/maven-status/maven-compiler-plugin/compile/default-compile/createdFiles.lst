@@ -1,0 +1,8 @@
+Modelo\MdPago.class
+Clases\Cliente.class
+Clases\Pago.class
+Modelo\MdPlan.class
+Modelo\DbData.class
+Clases\Mascota.class
+Clases\Plan.class
+Controlador\CtPago.class
